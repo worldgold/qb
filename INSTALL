@@ -1,0 +1,9 @@
+Building EB3CoinsCoin
+
+See doc/readme-qt.rst for instructions on building EB3CoinsCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EB3CoinsCoin.
+
+See doc/build-*.txt for instructions on building EB3CoinsCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EB3CoinsCoin.
